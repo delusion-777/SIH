@@ -38,16 +38,16 @@ Follow these steps to set up the project locally:
     npm run preview
 
 # Project Structure 
-Sustainable Farming Platform/
-├── index.html          # Main entry HTML
-├── vite.config.ts      # Vite configuration
-├── package.json        # Project metadata and scripts
-├── src/
-│   ├── main.tsx        # React entry point
-│   ├── App.tsx         # Root component with routes
-│   ├── pages/          # Page-level components (Home, Login, etc.)
-│   ├── components/     # Reusable UI components
-│   └── index.css       # Global styles
+      Sustainable Farming Platform/
+      ├── index.html          # Main entry HTML
+      ├── vite.config.ts      # Vite configuration
+      ├── package.json        # Project metadata and scripts
+      ├── src/
+      │   ├── main.tsx        # React entry point
+      │   ├── App.tsx         # Root component with routes
+      │   ├── pages/          # Page-level components (Home, Login, etc.)
+      │   ├── components/     # Reusable UI components
+      │   └── index.css       # Global styles
 
 
 # Features
