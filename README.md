@@ -24,16 +24,11 @@ Follow these steps to set up the project locally:
     npm run dev
 
 
-4. Once started, the development server will run at:
-
-    http://localhost:5173
-
-
-5. Build for production
+4. Build for production
 
     npm run build
 
-6. Preview production build
+5. Preview production build
 
     npm run preview
 
