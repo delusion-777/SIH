@@ -1,4 +1,4 @@
-# 🌱 Sustainable Farming Platform
+#  Sustainable Farming Platform
 
 The **Sustainable Farming Platform** is a modern web-based solution designed to support farmers and agricultural communities by providing digital tools, resources, and insights for sustainable agricultural practices. This project is built with **React, TypeScript, and Vite**, with a strong focus on performance, scalability, and clean UI components.
 
